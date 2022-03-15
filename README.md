@@ -1,4 +1,4 @@
-# Credit-Report-Complaint-topic-modelling
+# Credit-Report-Complaint-Topic-Modelling
 
 ## Product Overview
 Topic Modelling based solution for customer complaints about Credit Reporting. The solution clusters customer complaints into topics based on the narratives provided. Given a set of customer complaints narratives, this solution identifies for each complaint the top three issues mentioned in the narrative. The task of identifying what credit reporting specific issue is being mentioned in a customer complaint requires human involvement and the same is being automated with this solution.
